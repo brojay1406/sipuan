@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1077867773838",
+    "firebase_url": "https://aplikasi-chat-aa4e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aplikasi-chat-aa4e9",
+    "storage_bucket": "aplikasi-chat-aa4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077867773838:android:7dc53dbf32027177dfeedf",
+        "android_client_info": {
+          "package_name": "com.dpppa.sipuan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5u3z78-MJBEYbkLfo08-RyMVoVUtumN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077867773838-2dkc9ce3ej046k3r919m6glqcq0cvjm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbaru"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077867773838:android:76fe93690a1d91a2dfeedf",
+        "android_client_info": {
+          "package_name": "com.example.chatbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077867773838-nt3srv5ckdttocigkgmdskc9ok1r4ler.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbaru",
+            "certificate_hash": "36db00f0bb42d26ef481c6fa83b3471ed8ac0301"
+          }
+        },
+        {
+          "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5u3z78-MJBEYbkLfo08-RyMVoVUtumN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077867773838-2dkc9ce3ej046k3r919m6glqcq0cvjm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbaru"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077867773838:android:b714829ea6498f40dfeedf",
+        "android_client_info": {
+          "package_name": "com.example.sipuan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5u3z78-MJBEYbkLfo08-RyMVoVUtumN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077867773838-cik7porjbmnqvndadq73gcvdt6gpe522.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077867773838-2dkc9ce3ej046k3r919m6glqcq0cvjm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatbaru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
